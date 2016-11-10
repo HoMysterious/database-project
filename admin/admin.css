@@ -1,0 +1,51 @@
+
+body {
+    padding: 50px;
+}
+
+.wrapper .container {
+    margin-top: 70px;
+}
+
+.title {
+    margin-bottom: 30px;
+}
+
+.title h2 {
+    float: right;
+}
+
+.logout-btn {
+    float: left;
+}
+
+.thhContainer {
+    margin: 0 auto;
+    max-width: 300px;
+}
+
+
+.home-btn {
+    margin: 18px 18px 0 0;
+}
+.login-body {
+    background-color: #fafafa;
+}
+
+.login-container {
+    margin: 10% auto;
+    max-width: 300px;
+}
+
+.scndrow {
+    margin-top: 30px;
+}
+
+.separator {
+    border-right: 2px solid #9ba7e3;
+}
+
+footer {
+    background: none;
+    color: #1b6d85;
+}

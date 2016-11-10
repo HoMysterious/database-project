@@ -1,0 +1,120 @@
+
+@font-face {
+  font-family: Shabnam;
+  font-weight: normal;
+  src: url("../fonts/Shabnam.eot"),
+       url("../fonts/Shabnam.woff"),
+       url("../fonts/Shabnam.ttf");
+}
+
+@font-face {
+  font-family: Shabnam;
+  font-weight: bold;
+  src: url("../fonts/Shabnam-Bold.eot"),
+  url("../fonts/Shabnam-Bold.woff"),
+  url("../fonts/Shabnam-Bold.ttf");
+}
+
+body {
+  direction: rtl;
+  font-family: Shabnam, "Helvetica Neue", sans-serif;
+}
+
+.mce-content-body {
+  font-size: 14px;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+
+.navbar-brand i {
+  top: 7px;
+}
+
+.header-title{
+  margin-right: 10px;
+}
+
+.jumbotron {
+  padding: 100px 0 100px 0;
+  text-align: center;
+  color: #ecf0f1;
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+}
+
+.title {
+  margin-bottom: 45px;
+}
+
+.wrapper .container {
+  margin-bottom: 50px;
+}
+
+.post {
+  padding: 0 0 30px 0;
+  border-bottom: 6px solid #d8d8d8;
+}
+
+.post article {
+  padding: 20px;
+  line-height: 1.7em;
+  font-size: 1.1em;
+}
+
+.post-title {
+  float: right;
+  margin-right: 10px;
+}
+
+.title-wrap i {
+  top: 30px;
+  float: right;
+}
+
+.info {
+  padding: 7px 10px;
+  border-bottom: 1px solid #c1c1c1;
+}
+
+.info i {
+  margin-left: 6px;
+  top: 5px;
+}
+.info span {
+  margin-left: 20px;
+}
+
+#comments {
+  border-top: 7px solid #fff;
+}
+
+#comments .comment-header {
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.comment-header .date {
+  float: left;
+}
+
+.comment-header .sender {
+  float: right;
+}
+
+.comment-body {
+  padding: 10px;
+  border-bottom: 3px solid #1b6d85;
+  margin-bottom: 20px;
+}
+
+footer {
+  padding: 50px;
+  background: linear-gradient(to bottom, #232e3f 0%,#2c3e50 15%);
+  color: #fff;
+}
