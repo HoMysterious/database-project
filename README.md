@@ -1,3 +1,3 @@
-# database-project
+# Simple Blog
 
-A Simple PHP and MySQL Project for University course.
+A Simple Blog Made with PHP and MySQL for University Course Project.
