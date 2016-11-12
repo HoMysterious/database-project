@@ -2,4 +2,4 @@
 
 A Simple Blog Made with PHP and MySQL for University Course Project.
 
-![screenshot](https://cloud.githubusercontent.com/assets/1191702/20239864/f42b86c6-a91f-11e6-96b6-b4e6708241c7.png)
+![database](https://cloud.githubusercontent.com/assets/1191702/20239990/aa4d640e-a922-11e6-86dc-7aa8f345af7d.png)
